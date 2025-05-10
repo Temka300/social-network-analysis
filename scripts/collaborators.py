@@ -5,6 +5,8 @@ print("hi by Ariuka and Ariuntungalag")
 print("hi i'm togsoo by tuvshintugs and  ZeTogsoo")
 print("Hi I love cs2 by Bat-Erdene and stillmeta")
 print("hi I love dota by Jamsran and mjamsran")
+print("I hate human by Michidmaa")
+print("I love me by Ochir and Ochir200407")
 
 # Hiimel Oyun 4
 print("hi im from ohio by Zoljargal and rylex27")
